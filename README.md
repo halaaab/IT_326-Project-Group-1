@@ -25,7 +25,7 @@ Provide clear and interpretable model that could support healthcare professional
 - Malignent 212
 
 ## Group Members
-Hala Alsabbar 445203035 
-Sara Aakil 445203005 
-Jana Alothman 445200267 
-Noora Alluqaili 445201450 
+- Hala Alsabbar 445203035 
+- Sara Aakil 445203005 
+- Jana Alothman 445200267 
+- Noora Alluqaili 445201450 
